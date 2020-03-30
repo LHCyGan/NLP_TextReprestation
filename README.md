@@ -57,7 +57,7 @@ bombastic:0.01^{3/4}=0.032$$
 
 ### 词向量的作用与获取
 
-很多高阶的深度学习自然语言处理任务，都可以用词向量作为基础。我们课程后面的很多任务，可以用预训练好的word2vec初始化。可以从[开源链接](https://github.com/Embedding/Chinese-Word-Vectors)获取。
+很多高阶的深度学习自然语言处理任务，都可以用词向量作为基础。很多任务，可以用预训练好的word2vec初始化。可以从[开源链接](https://github.com/Embedding/Chinese-Word-Vectors)获取。
 
 
 
